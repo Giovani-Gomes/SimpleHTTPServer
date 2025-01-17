@@ -27,7 +27,12 @@ Certifique-se de ter o Java instalado na sua máquina. Caso não tenha, você po
 3. Compile o código:
    ```bash
    javac SimpleHTTPServer.java
-4. Execute o servidor:
-  ```bash
-  java SimpleHTTPServer
+
+### Execute o servidor
+
+Para rodar o servidor, execute o seguinte comando no terminal:
+
+   ```bash
+   java SimpleHTTPServer
+
 
